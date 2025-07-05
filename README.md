@@ -34,11 +34,11 @@ A fully functional calculator built using HTML, CSS, and JavaScript. The design 
 The goal of this task is to demonstrate DOM manipulation and event handling in JavaScript while creating an interactive and visually appealing user interface using only frontend technologies.
 
 ## Live Demo
-[https://vaillant06.github.io/CODSOFT/]
+[https://vaillant06.github.io/CODSOFT-Task-3/]
 
 ## Contact
 Name: Sreenath G  
-Email: sreenath2410530@ssn.edu.in  
+Email: [sreenath2410530@ssn.edu.in]  
 LinkedIn: [https://www.linkedin.com/in/sreenath-g-81414a326/]
 
 ## Hashtags for LinkedIn Post
